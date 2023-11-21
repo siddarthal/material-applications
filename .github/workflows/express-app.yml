@@ -43,4 +43,3 @@ jobs:
         context: .
         push: true
         tags: siddarthal/githubactions:latest
-        dockerfile: express-app/Dockerfile
